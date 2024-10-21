@@ -14,10 +14,10 @@ java {
 	}
 }
 
-jar {
-	// Remove `plain` postfix from jar file name
-	archiveClassifier.set("")
-}
+//jar {
+//	// Remove `plain` postfix from jar file name
+//	archiveClassifier.set("")
+//}
 
 publishing {
 	publications {
