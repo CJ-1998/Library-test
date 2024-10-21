@@ -17,7 +17,7 @@ java {
 publishing {
 	publications {
 		mavenJava(MavenPublication) {
-			groupId = 'com.msg'
+			groupId = 'com.example'
 			artifactId = 'library'
 			version = '1.0.0'
 			from components.java
